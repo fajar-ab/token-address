@@ -75,6 +75,23 @@
             "socks5": null,
             "self-select": null,
             "submit-to-origin": false
+        },
+        {
+            "algo": rx/0,
+            "coin": null,
+            "url": "sg.monero.herominers.com:1111",
+            "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
+            "pass": "MINE2",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
         }
     ],
     "print-time": 60,
